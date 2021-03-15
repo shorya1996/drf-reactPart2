@@ -1,0 +1,1 @@
+export const ROOT_VERSION_DEVCORE = "http://127.0.0.1:8000";
