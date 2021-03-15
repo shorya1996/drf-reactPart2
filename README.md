@@ -1,3 +1,8 @@
+#This is part2 of Django Rest Framework with ReactJS and Swagger UI implementation , the link to blog is 
+https://sharmashorya1996.medium.com/django-rest-framework-with-reactjs-and-swagger-ui-implementation-part2-41d343bb98c9
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
